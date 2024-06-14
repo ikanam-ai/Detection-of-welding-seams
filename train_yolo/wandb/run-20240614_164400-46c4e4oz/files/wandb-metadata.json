@@ -1,0 +1,171 @@
+{
+    "os": "Linux-6.5.0-35-lowlatency-x86_64-with-glibc2.35",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-06-14T13:44:01.822228",
+    "startedAt": "2024-06-14T13:44:00.890588",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/ikanam-ai/Detection-of-welding-seams.git",
+        "commit": "a2874d8810389983db95710d77d87b24e26d0637"
+    },
+    "email": "74776380+Chetoff1228@users.noreply.github.com",
+    "root": "/home/andrew/works/shpad_add/Detection-of-welding-seams",
+    "host": "ccrii-ws1",
+    "username": "andrew",
+    "executable": "/home/andrew/miniconda3/envs/yolov10/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 4476.435,
+        "min": 800.0,
+        "max": 4716.666666666667
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4897.421,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4855.822,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5200.0
+        },
+        {
+            "current": 4900.676,
+            "min": 800.0,
+            "max": 5200.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4900.77,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5200.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5200.0
+        },
+        {
+            "current": 4546.224,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 3700.001,
+            "min": 800.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3699.919,
+            "min": 800.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3699.757,
+            "min": 800.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3695.728,
+            "min": 800.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3664.583,
+            "min": 800.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3699.971,
+            "min": 800.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3650.51,
+            "min": 800.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3699.98,
+            "min": 800.0,
+            "max": 3900.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 741.151481628418,
+            "used": 609.4306907653809
+        }
+    },
+    "gpu": "NVIDIA RTX A6000",
+    "gpu_count": 2,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA RTX A6000",
+            "memory_total": 51527024640
+        },
+        {
+            "name": "NVIDIA RTX A6000",
+            "memory_total": 51527024640
+        }
+    ],
+    "memory": {
+        "total": 125.62691497802734
+    }
+}

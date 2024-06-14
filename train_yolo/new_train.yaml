@@ -1,0 +1,13 @@
+train: /home/andrew/works/shpad_add/Detection-of-welding-seams/dataset_copy/train
+val: /home/andrew/works/shpad_add/Detection-of-welding-seams/dataset_copy/test
+
+
+nc: 5
+
+
+names: 
+  0: "adj"
+  1: "int"
+  2: "geo"
+  3: "pro"
+  4: "non"

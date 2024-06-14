@@ -1,0 +1,171 @@
+{
+    "os": "Linux-6.5.0-35-lowlatency-x86_64-with-glibc2.35",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-06-14T13:57:42.832552",
+    "startedAt": "2024-06-14T13:57:41.683076",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/ikanam-ai/Detection-of-welding-seams.git",
+        "commit": "a2874d8810389983db95710d77d87b24e26d0637"
+    },
+    "email": "74776380+Chetoff1228@users.noreply.github.com",
+    "root": "/home/andrew/works/shpad_add/Detection-of-welding-seams",
+    "host": "ccrii-ws1",
+    "username": "andrew",
+    "executable": "/home/andrew/miniconda3/envs/yolov10/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 4500.030125,
+        "min": 800.0,
+        "max": 4716.666666666667
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4900.128,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4899.95,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4898.954,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4898.991,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4900.077,
+            "min": 800.0,
+            "max": 5200.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5200.0
+        },
+        {
+            "current": 4899.899,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5200.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5200.0
+        },
+        {
+            "current": 4900.543,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4900.0,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 3699.993,
+            "min": 800.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3700.04,
+            "min": 800.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3700.589,
+            "min": 800.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3699.907,
+            "min": 800.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3699.869,
+            "min": 800.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3700.092,
+            "min": 800.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3700.186,
+            "min": 800.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3700.034,
+            "min": 800.0,
+            "max": 3900.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 741.151481628418,
+            "used": 609.6416702270508
+        }
+    },
+    "gpu": "NVIDIA RTX A6000",
+    "gpu_count": 2,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA RTX A6000",
+            "memory_total": 51527024640
+        },
+        {
+            "name": "NVIDIA RTX A6000",
+            "memory_total": 51527024640
+        }
+    ],
+    "memory": {
+        "total": 125.62691497802734
+    }
+}
