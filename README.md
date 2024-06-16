@@ -15,6 +15,30 @@ git clone https://github.com/ikanam-ai/Detection-of-welding-seams.git
 python -m venv .venv
 .\.venv\Scripts\activate
 ```
+*3. Дождитесь создание папки `.venv` затем введите следующую команду:*
+
+```python
+cd Detection-of-welding-seams/frontend/streamlit
+```
+*3.  Инициализация проекта:*
+
+```python
+poetry init
+poetry update
+poetry install
+```
+*4. Запустите приложение через Poetry:*
+
+```python
+poetry run streamlit run zapusk.py
+```
+
+
+
+
+poetry run streamlit run
+
+cd Detection-of-welding-seams/
 
 
 ## Project Organization
