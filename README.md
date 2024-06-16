@@ -6,6 +6,17 @@
 
 -
 
+<p align="center">
+    <img src="./logo.jpg" alt="Логотип проекта" width="500" style="display: inline-block; vertical-align: middle; margin-right: 10px;"/>  <br/>
+     <H2 align="center">Команда Ikanam</H2> 
+    <H2 align="center">Кейс "Компетентностный подбор образовательных курсов"</H2> 
+</p>
+
+
+
+
+
+
 ## Project Organization
 
 ```
