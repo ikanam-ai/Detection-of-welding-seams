@@ -9,7 +9,7 @@
 <p align="center">
     <img src="./rosatom-logo-brandlogos.net.png" alt="Логотип проекта" width="500" style="display: inline-block; vertical-align: middle; margin-right: 10px;"/>  <br/>
      <H2 align="center">Команда Ikanam</H2> 
-    <H2 align="center">Кейс "Компетентностный подбор образовательных курсов"</H2> 
+    <H2 align="center">Кейс "Определение и классификация дефектов сварных швов с помощью ИИ"</H2> 
 </p>
 
 
