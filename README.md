@@ -34,8 +34,11 @@ poetry run streamlit run zapusk.py
 ```
 
 
+<video width="640" height="360" controls>
+  <source src="https://github.com/ikanam-ai/Detection-of-welding-seams/raw/main/docs/screencast%20(online-video-cutter.com).mp4" type="video/mp4">
+  Ваш браузер не поддерживает встроенные видео.
+</video>
 
-https://github.com/ikanam-ai/Detection-of-welding-seams/blob/main/docs/screencast%20(online-video-cutter.com).mp4
 
 ## Project Organization
 
