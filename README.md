@@ -37,8 +37,6 @@ poetry run streamlit run zapusk.py
 
 # Пример работы web-сервиса
 
-# Пример работы сервиса
-
 ***Часть 1:***
 
 <p align="center">
