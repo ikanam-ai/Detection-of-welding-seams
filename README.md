@@ -35,7 +35,7 @@ poetry run streamlit run zapusk.py
 
 
 
-
+https://github.com/ikanam-ai/Detection-of-welding-seams/blob/main/docs/screencast%20(online-video-cutter.com).mp4
 
 ## Project Organization
 
