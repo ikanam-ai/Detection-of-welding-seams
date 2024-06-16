@@ -1,11 +1,3 @@
-# Detection-of-welding-seams
-
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
-
--
-
 <p align="center">
     <img src="./rosatom-logo-brandlogos.net.png" alt="Логотип проекта" width="500" style="display: inline-block; vertical-align: middle; margin-right: 10px;"/>  <br/>
      <H2 align="center">Команда Ikanam</H2> 
