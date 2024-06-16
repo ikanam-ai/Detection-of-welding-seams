@@ -43,10 +43,25 @@ poetry run streamlit run zapusk.py
 
 <p align="center">
     <img src="./docs/photo_2024-06-16 07.43.54.jpeg" alt="Логотип проекта" width="900" style="display: inline-block; vertical-align: middle; margin-right: 10px;"/>  <br/>
-    Поиск образовательных курсов по представленным данным
 </p>
 
+***Часть 2:***
 
+<p align="center">
+    <img src="./docs/photo_2024-06-16 07.43.18.jpeg" alt="Логотип проекта" width="900" style="display: inline-block; vertical-align: middle; margin-right: 10px;"/>  <br/>
+</p>
+
+***Часть 3:***
+
+<p align="center">
+    <img src="./docs/photo_2024-06-16 07.43.22.jpeg" alt="Логотип проекта" width="900" style="display: inline-block; vertical-align: middle; margin-right: 10px;"/>  <br/>
+</p>
+
+# Пример работы TG-бота
+
+<p align="center">
+    <img src="./docs/photo_2024-06-16 07.43.28.jpeg" alt="Логотип проекта" width="900" style="display: inline-block; vertical-align: middle; margin-right: 10px;"/>  <br/>
+</p>
 
 
 ## Project Organization
