@@ -37,14 +37,14 @@ poetry run streamlit run zapusk.py
 
 # Пример работы web-сервиса
 
+# Пример работы сервиса
+
 ***Часть 1:***
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/ikanam-ai/Detection-of-welding-seams/main/docs/photo_2024-06-16%2007.43.54.jpeg
-" alt="Логотип проекта" width="900" style="display: inline-block; vertical-align: middle; margin-right: 10px;"/>  <br/>
+    <img src="./photo_2024-06-16 07.43.54.jpeg" alt="Логотип проекта" width="900" style="display: inline-block; vertical-align: middle; margin-right: 10px;"/>  <br/>
     Поиск образовательных курсов по представленным данным
 </p>
-https://raw.githubusercontent.com/ikanam-ai/Detection-of-welding-seams/main/docs/photo_2024-06-16%2007.43.54.jpeg
 
 
 
