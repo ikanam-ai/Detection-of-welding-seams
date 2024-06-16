@@ -33,11 +33,10 @@ poetry install
 poetry run streamlit run zapusk.py
 ```
 
+[Screencast](https://disk.yandex.ru/d/4W-iDxXXSmnaDw) наших сервисов
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/ikanam-ai/Detection-of-welding-seams/raw/main/docs/screencast%20(online-video-cutter.com).mp4" type="video/mp4">
-  Ваш браузер не поддерживает встроенные видео.
-</video>
+
+
 
 
 ## Project Organization
