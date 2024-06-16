@@ -36,10 +36,6 @@ poetry run streamlit run zapusk.py
 
 
 
-poetry run streamlit run
-
-cd Detection-of-welding-seams/
-
 
 ## Project Organization
 
