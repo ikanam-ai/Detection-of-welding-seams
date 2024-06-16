@@ -5,8 +5,16 @@
 </p>
 
 
+*1. Загрузите репозиторий на свой компьютер и откройте её в вашей предпочитаемой среде разработки (IDE).* 
+```python
+git clone https://github.com/ikanam-ai/Detection-of-welding-seams.git
+```
+*2. Откройте терминал в IDE и введите туда следующую команду:* 
 
-
+```python
+python -m venv .venv
+.\.venv\Scripts\activate
+```
 
 
 ## Project Organization
